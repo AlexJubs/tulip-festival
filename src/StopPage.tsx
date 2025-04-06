@@ -13,8 +13,8 @@ function StopPage() {
       </Link>
       <div className="w-full max-w-3xl flex flex-col items-center my-2">
       <audio controls className="w-full">
-          <source src={`/public/stop${id}.wav`} type="audio/wav" />
-          <track kind="captions" src={`/public/stop${id}.vtt`} label="English" />
+          <source src={`/stop${id}.wav`} type="audio/wav" />
+          <track kind="captions" src={`/stop${id}.vtt`} label="English" />
         </audio>
       </div>
       <div className="w-screen max-w-3xl bg-white shadow-sm p-6 overflow-y-auto max-h-[72vh] text-left">
