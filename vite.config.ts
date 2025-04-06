@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/',
+  base: '/tulip-festival',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
