@@ -9,20 +9,223 @@
     "1": {
       "title": "Il y a 8000 ans",
       "content": [
-        "Le peuple algonquin vit dans la vallée de l'Outaouais depuis plus de 8 000 ans, s'appuyant sur ses voies navigables pour sa subsistance et son commerce. Leur société égalitaire basée sur les clans était profondément liée à la terre, mais l'arrivée des Européens a apporté la guerre, les maladies et les déplacements.",
-        "Malgré la Proclamation royale de 1763 reconnaissant les droits des Autochtones sur leurs terres, l'expansion coloniale et le commerce du bois ont érodé les territoires algonquins. Contrairement à de nombreuses Premières Nations, ils n'ont jamais signé de traité cédant leurs terres, et leur revendication reste non résolue.",
-        "Aujourd'hui, plus de 40 000 Canadiens s'identifient comme Algonquins, et les efforts vers la réconciliation et l'autonomie gouvernementale se poursuivent au milieu de différends persistants et d'injustices historiques."
+        "Les Algonquins habitent la vallée de l'Outaouais depuis plus de 8000 ans, tirant profit de ses voies navigables pour sa subsistance et le commerce. Leur société formée de clans est égalitaire et elle est très liée à la terre. Par contre, leurs traditions sont bousculées par l'arrivée des Européens qui amènent guerres, maladies et déplacements.",
+        "L'expansion coloniale et l'industrie du bois grugent les territoires algonquins, malgré la Proclamation royale de 1763 qui reconnaissait leurs droits ancestraux. Contrairement à plusieurs Premières nations, les Algonquins n'ont jamais signé de traités pour céder leurs terres et leurs revendications sont toujours irrésolues.",
+        "Aujourd'hui, plus de 40 000 Canadiens se considèrent Algonquins et les efforts pour se rapprocher de la réconciliation et de l'autorégulation se poursuivent sur fond de conflits et d'injustices historiques."
       ],
       "tulips": {
         "sectionTitle": "Tulipes dans ce parterre",
         "varieties": [
           {
             "name": "Red Pride",
-            "description": "Quand on pense à la tulipe, on pense à Red Pride. La tulipe triomphe Red Pride possède la silhouette iconique de la tulipe que nous connaissons tous. Associée à l'amour et à la passion, cette tulipe est la fleur parfaite pour les couples en plein épanouissement."
+            "description": "Quand on pense tulipe, c'est elle qu'on voit. La Red Pride triomphe possède la silhouette emblématique de la tulipe que tout le monde connaît. On l'associe à l'amour et la passion, ce qui en fait la tulipe parfaite pour un amour en éclosion."
           },
           {
             "name": "Vogue",
-            "description": "La Vogue est ce qu'on appelle une tulipe double, contrairement aux tulipes traditionnelles à six pétales, une tulipe double s'épanouit en arrangements de pétales multicouches impressionnants. Curieusement, la Vogue est également connue pour s'éclaircir avec l'âge."
+            "description": "La Vogue est une tulipe double. Contrairement aux tulipes traditionnelles à six pétales, la double fleurit en un superbe arrangement de pétales multicouches. Fait à noter, la Vogue est aussi connue pour sa couleur qui s'éclaircit avec le temps."
+          },
+          {
+            "name": "Orange Pride",
+            "description": "Énergie, force et joie de vivre sont les mots qui nous viennent à l'esprit en voyant l'Orange Pride. Elle a une fleur vigoureuse, de grandes feuilles et une tige robuste. Ces qualités, ainsi que sa capacité à atteindre jusqu'à 50 cm, en fait une vraie force de la nature."
+          },
+          {
+            "name": "Orange Queen",
+            "description": "L'Orange Queen, cette grande beauté, est reconnue pour ses propriétés de tulipe vivace. Elle peut donc produire plus de fleurs au fil des ans grâce à des soins attentifs."
+          },
+          {
+            "name": "Yellow Pride",
+            "description": "La Yellow Pride, une tulipe triomphe populaire, est reconnue pour ses couleurs lumineuses. Elle est aussi une tulipe vivace robuste qui produira un nombre exceptionnel de fleurs année après année."
+          },
+          {
+            "name": "Yellow Pomponette",
+            "description": "Cette tulipe jaune à grands pétales vous tombera dans l'œil avec son impressionnante fleur double et ses couleurs vives. La Yellow Pomponette est un vrai plaisir des sens, pour les yeux comme pour le nez."
+          },
+          {
+            "name": "Green Power",
+            "description": "Nous vous présentons la toute première tulipe verte, la Green Power ! Comme d'autres tulipes, ses pétales sont comestibles et peuvent très bien s'utiliser dans les salades. Une utilisation de circonstance pour une fleur si verte !"
+          },
+          {
+            "name": "Super Parrot",
+            "description": "Dentelle et audace, c'est la Super Parrot. Ses fleurs ondulées qui ressemblent aux plumes d'un perroquet sont une de ses caractéristiques les plus frappantes. La Super Parrot, avec son blanc aux reflets verts, ressort comme le cacatoès blanc qui lui donne son nom."
+          },
+          {
+            "name": "Purple Pride",
+            "description": "Cette tulipe géante, connue sous le nom de Purple Pride, est connue pour sa force brute. Elle est la première tulipe Darwin à pétales violets. Les tulipes Darwin sont une variété de tulipes reconnue pour leur tige robuste et leurs grandes fleurs, la taille parfaite pour se mettre en valeur."
+          },
+          {
+            "name": "Secret Parrot",
+            "description": "Ondulée, pourpre profond et douce allure, c'est la Secret Parrot ! Cette tulipe se distingue de ses cousines ondulées parce qu'elle est un hybride double perroquet. Elle a les franges du perroquet et le nombre impressionnant de pétales de la tulipe double."
+          }
+        ]
+      }
+    },
+    "2": {
+      "title": "Les débuts du colonialisme au Canada",
+      "content": [
+        "En juin 1613, Samuel de Champlain remonte la rivière des Outaouais, admirant les chutes Rideau et de la Chaudière, et consignant dans un journal ses découvertes sur la région et le peuple algonquin. Ses carnets décrivent le difficile voyage, des rapides dangereux aux moustiques sans merci, alors qu'il cherche une route vers la baie d'Hudson.",
+        "Le groupe de Champlain, trompé par un interprète, ne dépassera jamais l'île aux Allumettes. Il y retourne deux ans plus tard, complétant son voyage jusqu'à la baie Georgienne. Ses récits fournissent de précieuses informations sur l'histoire des Premières Nations et sur les perturbations causées par l'arrivée des Européens. On se souviendra de Champlain comme le « père de la Nouvelle-France ». Il aspirait à une coexistence paisible, mais il prit également part à des affrontements qui bouleversèrent les accords autochtones."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Tulipe Canada 150",
+            "description": "Cette tulipe porte le titre prestigieux de tulipe officielle du 150e anniversaire du Canada. Communément appelée tulipe « Feuille d'érable » ou « Carnaval de Rio », elle a été dévoilée le 9 mai 2016 dans le Parc des commissaires. Cette élégante tulipe blanche est parée de flammes rouges qui ressemblent à s'y méprendre à la feuille d'érable du drapeau canadien."
+          },
+          {
+            "name": "National Velvet",
+            "description": "Comme son nom l'indique, la National Velvet est très agréable à regarder avec son aspect velouté. Elle peut atteindre une taille de près de 40 cm et, comme tulipe triomphe, elle peut être admirée dans les festivals floraux comme bordure ou comme vedette principale des parterres tellement elle est magnifique."
+          }
+        ]
+      }
+    },
+    "3": {
+      "title": "Devenir Ottawa, avant la Confédération",
+      "content": [
+        "À la fin des années 1700, les colons ont envahi les territoires de chasse du chef Pinesi au nord et au sud, rivalisant avec sa nation pour les ressources et venant perturber le mode de vie autochtone. La construction du canal Rideau dans les années 1820 est venue modifier davantage le paysage, inondant les berges et nuisant à la pêche.",
+        "Lors de la guerre de 1812, le chef Pinesi et les guerriers algonquins ont combattu au côté des Britanniques. Leur contribution a toutefois été minimisée et les demandes pour ravoir leurs terres ignorées. Pendant ce temps, Bytown (maintenant Ottawa) est fondé en 1826 comme le centre de la construction du canal. Mais c'est le commerce florissant du bois, lancé par Philemon Wright en 1806, qui a véritablement façonné la région. Au début des années 1900, les scieries d'Ottawa étaient parmi les plus productives au monde.",
+        "Ottawa devient la capitale du Canada en 1867, mais l'industrie du bois reste pendant des décennies sa principale force économique. Avec le temps, cette industrie s'est déplacée vers les pâtes et papiers avant de disparaître presque complètement. L'impact environnemental était considérable et la transformation de la région a sonné le glas du mode de vie autochtone, sans que leurs terres ne soient jamais cédées aux colons européens."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "La Blushing Lady",
+            "description": "Le teint de pêche de cette beauté est suffisant pour la faire sortir du lot, mais pour la Blushing Lady, ce n'est pas assez. Cette tulipe se démarque aussi par sa taille, une des plus grandes tulipes simples tardives, qui peut atteindre 75 cm !"
+          },
+          {
+            "name": "Bleu Aimable",
+            "description": "Saviez-vous qu'il n'existe pas de variété de tulipes bleue ? Ça n'empêche pas la Bleu Aimable d'essayer, avec son violet foncé éblouissant. Grande tulipe simple tardive, elle présente de grandes fleurs et une tige robuste."
+          },
+          {
+            "name": "Queen of Night",
+            "description": "Les bulbes de la tulipe Queen of the Night sont une variété exceptionnelle qui dégage une aura de charme et de mystère. Ses pétales violet foncé veloutés, tirant sur le noir, créent une présence saisissante dans les jardins ou les parterres de fleurs. Grâce à sa teinte éclatante et à sa silhouette élégante, la Queen of the Night apporte une touche sophistiquée et dramatique qui la rend incontournable dans tous les lieux."
+          }
+        ]
+      }
+    },
+    "4": {
+      "title": "Devenir la Capitale, post-Confédération",
+      "content": [
+        "Dans les années 1930, Bytown est une ville forestière violente, aux prises avec des conflits sectaires et des gangs, comme les « Shiners ». Pendant ce temps, la perte des terres se poursuit pour les Algonquins, malgré l'aide apportée par la nation pendant la guerre de 1812, alors que la vente des terres par les Britanniques les exclut.",
+        "L'émeute du « Stony Monday » en 1849 met en relief les troubles à Bytown, mais, en 1853, Lord Elgin considère qu'il y a assez de conciliation pour la recommander comme capitale du Canada. Renommée Ottawa en 1855, elle est officiellement choisie en 1857 et confirmée avec la Confédération en 1867.",
+        "À la fin des années 1800, les Algonquins font face à d'autres déplacements. Les compagnies forestières saisissent leurs terres et l'arpentage colonial efface leurs revendications territoriales, les coupant de leur mode de vie ancestral."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Lady Van Eijk",
+            "description": "Cette dame rose semble aimer faire étalage de ses couleurs. La Lady Van Eijk est reconnue pour ses fleurs durables avec une floraison vers le milieu et la fin du printemps. Sa taille impressionnante de 60 cm attire l'attention sur la famille Van Eijk."
+          },
+          {
+            "name": "Salmon Van Eijk",
+            "description": "Comme son nom le suggère, la Salmon Van Eijk éblouie avec sa couleur rose saumon. Les tulipes de la famille Van Eijk sont des hybrides Darwin, un croisement entre les tulipes simples tardives et les empereurs. Elles sont grandes et larges, ce qui en fait une tulipe robuste."
+          },
+          {
+            "name": "Mystic Van Eijk",
+            "description": "Pour compléter l'élégant parterre de Van Eijk, on trouve la Mystic Van Eijk. Cette tulipe rose corail s'agence parfaitement avec le saumon de la Salmon Van Eijk. Les deux font bien ressortir le rouge de la Lady Van Eijk et ces trois tulipes réunies créent le parterre parfait de Van Eijk juste pour vous."
+          }
+        ]
+      }
+    },
+    "5": {
+      "title": "La Seconde Guerre mondiale et la libération des Pays-Bas",
+      "content": [
+        "Le Canada a joué un rôle important dans la libération des Pays-Bas lors de la Seconde Guerre mondiale, particulièrement en 1944-45. Malgré la discrimination, plus de 3000 Autochtones canadiens ont servi avec honneur lors de batailles comme Dieppe, la campagne italienne et le jour J. Toutefois, à leur retour, beaucoup se sont vu refuser des prestations et la reconnaissance qu'ils méritaient.",
+        "Après l'invasion de la Pologne par l'Allemagne en 1939, le Canada s'est joint à la guerre en appui à la Grande-Bretagne et en entraînant des troupes. La princesse Juliana des Pays-Bas trouve refuge à Ottawa, où sa fille voit le jour dans un territoire temporairement désigné néerlandais. La marine canadienne protège des voies de ravitaillement et l'armée de l'air entraîne des pilotes du Commonwealth.",
+        "Les forces canadiennes jouent un rôle important lors de la bataille de l'Escaut en libérant le port d'Anvers. Ils continuent leur avancée dans les terres néerlandaises où elles font face à des conditions difficiles et à une famine générale. Après la capitulation des Allemands en mai 1945, les Néerlandais accueillent les Canadiens avec gratitude et des tulipes.",
+        "L'Aviation Royale du Canada largue des denrées alimentaires vitales lors de l'opération Manna et les troupes peuvent voir les messages de remerciement peints sur les toits. Pour marquer sa reconnaissance, la princesse Juliana offre chaque année des bulbes de tulipes au Canada, inspirant la création du Festival canadien des tulipes. Le monument « L'homme aux deux chapeaux », dévoilé en 2002, rend hommage à l'amitié qui lie le Canada et les Pays-Bas."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Doberman",
+            "description": "Cette remarquable tulipe triomphe transforme l'élégant chien doberman en tulipe sous vos yeux. On peut la reconnaître par sa couleur et le bord de ses pétales qui lui donnent l'allure lustrée du pelage de son homonyme."
+          },
+          {
+            "name": "Labrador",
+            "description": "Avec son bordeaux foncé et ses franges, on voit bien d'où cette tulipe échevelée tient son nom de Labrador. La tulipe dentelée est une variété qui comporte des pétales ondulés, presque comme du poil."
+          },
+          {
+            "name": "Bingo",
+            "description": "La tulipe Bingo transperce les parterres de son jaune éclatant et son blanc, s'assurant qu'on la remarque. La Bingo ne pousse que jusqu'à 40 cm et porte habituellement de plus petites fleurs. Malgré sa petite taille, elle est une tulipe robuste et résistante dotée d'une tige solide et a la capacité de supporter un peu d'ombre."
+          },
+          {
+            "name": "Big Red",
+            "description": "La superbe tulipe Big Red est une variété reconnue pour ses grands pétales rouge vif qui offre un spectacle éblouissant dans les jardins. Ses fleurs éclatantes sont souvent considérées comme un symbole d'amour et de passion, en faisant un choix populaire pour les arrangements floraux et paysagers. Avec sa tige solide et son allure saisissante, cette tulipe ressort dans les jardins printaniers et attire l'attention avec sa couleur vive rougeoyante."
+          }
+        ]
+      }
+    },
+    "6": {
+      "title": "Les origines du Festival des tulipes",
+      "content": [
+        "Malak Karsh, fondateur du Festival canadien des tulipes, immigre au Canada d'Arménie (anciennement Turque) en 1937. Célèbre photographe, ses images dépeignent les paysages canadiens et l'héritage culturel du pays. Il reçoit de nombreux prix, notamment l'Ordre du Canada en 1996.",
+        "Ses photos présentent des lieux emblématiques, comme les édifices du Parlement à Ottawa, les draveurs sur les rivières des Outaouais et Gatineau et les beautés de l'arctique Canadien. On retrouve son amour pour Ottawa dans sa signature à laquelle il ajoute toujours le nom de la ville.",
+        "Inspiré des tulipes offertes en cadeau par les Néerlandais, Malak Karsh propose un festival de tulipes à la Chambre de commerce d'Ottawa. Son projet devient réalité en 1953, avec le lancement du Festival canadien des tulipes, une célébration de la longue amitié entre le Canada et les Pays-Bas."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Big Chief",
+            "description": "Les tulipes Big Chief fleurissent habituellement à la fin du printemps, d'avril à mai. Leurs longues tiges en font une tulipe idéale pour ajouter de la hauteur aux parterres ou pour des compositions florales. Elles ont un style éclatant, mais classique et peuvent atteindre une taille d'environ 16-18 pouces (40-45 cm), dominant les parterres."
+          },
+          {
+            "name": "Eagle Wings",
+            "description": "La Eagle Wings est une variété unique saisissante reconnue pour son élégance et son style spectaculaire. Ce cultivar fait partie de la famille des tulipes perroquets, dont on reconnaît les pétales gaufrés et ébouriffés qui lui donnent un style pétillant, presque exotique. Ses fleurs mélangent le blanc crémeux et le violet riche foncé, et le bord de ses pétales présente une texture ondulée comme une plume, qui rappellent les ailes d'un aigle."
+          },
+          {
+            "name": "Red Dress",
+            "description": "La tulipe Red Dress est une superbe variété connue pour ses fleurs d'un rouge foncé éclatant qui rappelle une élégante robe de soirée bien ajustée. Les fleurs en forme de coupe lisse avec des pétales pointus éclatants lui donnent une allure raffinée. Avec sa taille d'environ 14-18 pouces (35-45 cm), elle est parfaite pour ajouter de la couleur et une touche spectaculaire aux jardins et compositions florales."
+          },
+          {
+            "name": "Lightning Sun",
+            "description": "La tulipe Lightning Sun est une variété fascinante connue pour ses contrastes de couleurs saisissants et la forme unique de ses pétales. Ses fleurs d'un jaune éclatant rehaussées de stries rougeoyantes rappellent des éclairs. Cette tulipe peut atteindre 12-16 pouces (30-40 cm) et ressort des jardins, des platebandes et des compositions florales. En fleur au milieu du printemps, la Lightning Sun pousse bien en plein soleil et dans un sol bien drainé et est un ajout bienvenu dans tous les jardins."
+          }
+        ]
+      }
+    },
+    "7": {
+      "title": "Commémoration et héritage",
+      "content": [
+        "De nombreux soldats canadiens qui ont perdu la vie aux Pays-Bas lors de la Seconde Guerre mondiale reposent principalement dans trois cimetières de guerre canadiens : Holten, Groesbeek et Bergen op Zoom. La Commission des sépultures de guerre du Commonwealth s'occupe de ces cimetières qui reçoivent toujours les hommages des Néerlandais. La veille de Noël à Holten, les écoliers déposent une chandelle sur chaque tombe canadienne et les communautés locales « adoptent une tombe », en prennent soin et en apprennent plus sur les soldats décédés.",
+        "Les Canadiens continuent de visiter les Pays-Bas pour commémorer sa libération et pour de grandes cérémonies qui ont lieu tous les cinq ans. Alors que, dans le passé, les vétérans étaient majoritaires pour ces pèlerinages, c'est maintenant leurs descendants et d'autres Canadiens qui poursuivent cette tradition. Ils sont toujours chaleureusement accueillis par les nouvelles générations de Néerlandais reconnaissants.",
+        "Le Festival canadien des tulipes souligne le Projet d'héritage autochtone, une initiative de la filiale 005 de la Légion royale canadienne aux Pays-Bas et Aboriginal Veterans Autochtones (AVA). En partenariat avec Anciens Combattants Canada, la Commission des sépultures de guerre du Commonwealth et Faces To Graves, 17 soldats autochtones ont pu être identifiés au cimetière de guerre canadien d'Holten.",
+        "Dans le cadre de ce projet, une délégation canadienne a offert des blagues à tabac réalisées par les jeunes de Shabot Obaadjiwan pour les élèves néerlandais, renforçant le devoir de mémoire et les liens entre les générations."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Pink Symbiose",
+            "description": "La tulipe Pink Symbiose est une superbe variété connue pour ses pétales délicats d'un rose tendre qui pâlit graduellement sur les bords. Ses fleurs élégantes en forme de coupes reposent au sommet d'une longue tige fine, offrant une présence élégante dans tous les jardins et compositions florales. Grâce à sa couleur délicate, mais ensorcelante, la Pink Symbiose est un modèle de beauté et d'équilibre, parfaite pour ajouter une touche d'élégance aux arrangements printaniers."
+          },
+          {
+            "name": "Salmon Symbiose",
+            "description": "La tulipe Salmon Symbiose est une magnifique variété aux pétales rose saumon éclatant qui s'adoucit graduellement en une teinte de pêche vers les bords. Ses élégantes fleurs en pointes rehaussent les jardins et les compositions florales. Ses tons riches et doux évoquent un sentiment de chaleur et de beauté. Ces qualités en font le choix parfait pour ajouter une touche de couleur et d'élégance aux arrangements printaniers."
+          },
+          {
+            "name": "Voicemail",
+            "description": "La tulipe Voicemail est une variété unique et ensorcelante, connue pour ses pétales violets foncés qui passent graduellement à un lavande pâle sur les bords. Cette combinaison de couleurs, jumelée à une fleur à franges, crée un style éclatant tout en étant élégant dans tous les jardins ou bouquets. Avec son allure qui attire les regards, la tulipe Voicemail est un choix idéal pour ajouter une touche de mystère et d'élégance à vos arrangements floraux printaniers."
+          },
+          {
+            "name": "Rockabilly",
+            "description": "La tulipe Rockabilly est une variété enjouée et éclatante qui présente des pétales rougeoyants avec des rebords blancs qui lui donnent un petit air de rocker rétro. Sa couleur unique qui détonne et sa tige robuste en font une championne des jardins et des compositions florales. Avec son allure plaisante et pétillante, la Rockabilly fait ressortir le côté vibrant et assuré des fleurs printanières. Elle est parfaite pour ajouter une touche de couleur et de personnalité aux compositions florales."
+          },
+          {
+            "name": "Marshmallow",
+            "description": "La tulipe Marshmallow est une variété délicate qui présente de purs pétales blancs d'une douce texture, presque veloutée. Avec son allure simple, mais élégante, elle dégage une beauté paisible qui complète bien tous les jardins et bouquets. Les fleurs lisses et arrondies de la Marshmallow ajoutent une touche de pureté et de fraîcheur, qui en fait un choix idéal pour créer une allure soignée et intemporelle dans les arrangements floraux printaniers."
+          },
+          {
+            "name": "Mariola",
+            "description": "La tulipe Mariola est une charmante variété qui présente des pétales blancs crémeux avec une touche éclatante de violet foncé sur les rebords. Cette couleur brillante qui détonne lui donne un style élégant et en fait la vedette de tous les jardins et arrangements floraux. Avec sa forme gracieuse et ses couleurs vives, la Mariola ajoute une touche d'élégance aux arrangements floraux printaniers, parfaits pour ceux qui recherchent un équilibre entre la beauté et le drame."
+          },
+          {
+            "name": "Gold Rush",
+            "description": "La tulipe Gold Rush est une variété éblouissante, qui présente des pétales jaune d'or éclatant avec une touche subtile d'orange sur le bord. Ses fleurs étincelantes rendent bien l'essence d'un soleil de printemps et créent une atmosphère légère dans tous les jardins et bouquets. Sa couleur remarquable et sa forme élégante font de la Gold Rush un choix idéal pour ajouter de la chaleur et de la vitalité à vos arrangements floraux."
           }
         ]
       }
