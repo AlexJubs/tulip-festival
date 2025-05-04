@@ -9,6 +9,7 @@ function StopPage() {
   // Get both stopId and language from URL parameters
   const { id, lang = "en" } = useParams<{ id: string; lang: string }>();
   const stopId = id || "1";
+  const audioFileName = `stop${stopId}-${lang}.mp3`;
 
   // If language is not supported, redirect to English version
   if (!isLanguageSupported(lang)) {
@@ -68,7 +69,7 @@ function StopPage() {
       </Link>
       <div className="w-full max-w-3xl flex flex-col items-center my-2">
         <audio controls className="w-full">
-          <source src={`/stop${stopId}.wav`} type="audio/wav" />
+          <source src={`/${audioFileName}`} type="audio/mp3" />
           <track kind="captions" src={`/stop${stopId}.vtt`} label="English" />
         </audio>
       </div>
