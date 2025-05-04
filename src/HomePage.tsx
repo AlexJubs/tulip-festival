@@ -26,7 +26,7 @@ function HomePage() {
           <Link
             key={language}
             to={`/${language}`}
-            className={`px-2 py-1 rounded-md ${language === lang ? "bg-foreground text-background" : "bg-gray-200"}`}
+            className={`px-2 py-1 rounded-md ${language === lang ? "bg-gray-200" : "bg-foreground text-background"}`}
           >
             {language.toUpperCase()}
           </Link>
