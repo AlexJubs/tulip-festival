@@ -9,7 +9,13 @@ function StopPage() {
   // Get both stopId and language from URL parameters
   const { id, lang = "en" } = useParams<{ id: string; lang: string }>();
   const stopId = id || "1";
-  const audioFileName = `stop${stopId}-${lang}.mp3`;
+  
+  // Audio file path
+  const audioSrc = `/stop${stopId}-${lang}.mp3`;
+  
+  // Generate a unique key that changes when language or stop ID changes
+  // This forces React to recreate the audio element when the language changes
+  const audioKey = `audio-${lang}-${stopId}`;
 
   // If language is not supported, redirect to English version
   if (!isLanguageSupported(lang)) {
@@ -46,7 +52,7 @@ function StopPage() {
   return (
     <div className="flex flex-col items-center justify-center p-4">
       <div className="w-full max-w-3xl flex justify-between items-center">
-        <h1 className="text-xl font-bold py-2">
+        <h1 className="text-xl font-bold p-2">
           {ui.pageTitle} {stopId}
         </h1>
         <div className="flex gap-2">
@@ -68,8 +74,9 @@ function StopPage() {
         {ui.backButton}
       </Link>
       <div className="w-full max-w-3xl flex flex-col items-center my-2">
-        <audio controls className="w-full">
-          <source src={`/${audioFileName}`} type="audio/mp3" />
+        {/* Using key prop to force remounting when language changes */}
+        <audio key={audioKey} controls className="w-full">
+          <source src={audioSrc} type="audio/mp3" />
           <track kind="captions" src={`/stop${stopId}.vtt`} label="English" />
         </audio>
       </div>
