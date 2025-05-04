@@ -1,0 +1,31 @@
+{
+  "ui": {
+    "pageTitle": "Festival des Tulipes du Canada: Arrêt",
+    "backButton": "Retour à la Page Principale",
+    "homeTitle": "Festival des Tulipes du Canada: Arrêts",
+    "stopLabel": "Arrêt"
+  },
+  "stops": {
+    "1": {
+      "title": "Il y a 8000 ans",
+      "content": [
+        "Le peuple algonquin vit dans la vallée de l'Outaouais depuis plus de 8 000 ans, s'appuyant sur ses voies navigables pour sa subsistance et son commerce. Leur société égalitaire basée sur les clans était profondément liée à la terre, mais l'arrivée des Européens a apporté la guerre, les maladies et les déplacements.",
+        "Malgré la Proclamation royale de 1763 reconnaissant les droits des Autochtones sur leurs terres, l'expansion coloniale et le commerce du bois ont érodé les territoires algonquins. Contrairement à de nombreuses Premières Nations, ils n'ont jamais signé de traité cédant leurs terres, et leur revendication reste non résolue.",
+        "Aujourd'hui, plus de 40 000 Canadiens s'identifient comme Algonquins, et les efforts vers la réconciliation et l'autonomie gouvernementale se poursuivent au milieu de différends persistants et d'injustices historiques."
+      ],
+      "tulips": {
+        "sectionTitle": "Tulipes dans ce parterre",
+        "varieties": [
+          {
+            "name": "Red Pride",
+            "description": "Quand on pense à la tulipe, on pense à Red Pride. La tulipe triomphe Red Pride possède la silhouette iconique de la tulipe que nous connaissons tous. Associée à l'amour et à la passion, cette tulipe est la fleur parfaite pour les couples en plein épanouissement."
+          },
+          {
+            "name": "Vogue",
+            "description": "La Vogue est ce qu'on appelle une tulipe double, contrairement aux tulipes traditionnelles à six pétales, une tulipe double s'épanouit en arrangements de pétales multicouches impressionnants. Curieusement, la Vogue est également connue pour s'éclaircir avec l'âge."
+          }
+        ]
+      }
+    }
+  }
+}
