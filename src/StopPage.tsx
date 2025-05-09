@@ -52,7 +52,7 @@ function StopPage() {
   return (
     <div className="flex flex-col items-center justify-center p-4">
       <div className="w-full max-w-3xl flex justify-between items-center">
-        <h1 className="text-xl font-bold py-3">
+        <h1 className="text-xl font-bold py-3 pr-2">
           {ui.pageTitle} {stopId}
         </h1>
         <div className="flex gap-2">
