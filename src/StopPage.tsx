@@ -51,28 +51,52 @@ function StopPage() {
 
   return (
     <div className="flex flex-col items-center justify-center p-4">
-      <div className="w-full max-w-3xl flex justify-between items-center">
-        <h1 className="text-xl font-bold py-3 pr-2">
-          {ui.pageTitle} {stopId}
-        </h1>
-        <div className="flex gap-2">
-          {availableLanguages.map((language) => (
+      <div className="w-full max-w-3xl">
+        {/* Row 1: Title (75%) and language buttons (25%) */}
+        <div className="grid grid-cols-4 gap-2 mb-2">
+          <div className="col-span-3">
+            <h1 className="text-lg font-bold py-2">
+              {ui.pageTitle} {stopId}
+            </h1>
+          </div>
+          <div className="flex items-center justify-end gap-2">
+            {availableLanguages.map((language) => (
+              <Link
+                key={language}
+                to={`/${language}/stop/${stopId}`}
+                className={`px-2 py-1 rounded-md ${language === lang ? "bg-gray-200" : "bg-foreground text-background"}`}
+              >
+                {language.toUpperCase()}
+              </Link>
+            ))}
+          </div>
+        </div>
+        
+        {/* Row 2: Club Pilates image (75%) and back button (25%) */}
+        <div className="grid grid-cols-6 gap-2 mb-2">
+          <div className="col-span-5">
+            <a href="https://www.clubpilates.com/location/westboro" target="_blank" rel="noopener noreferrer">
+              <img 
+                src="/club-pilates.jpeg" 
+                alt="Club Pilates" 
+                className="w-full h-auto object-cover rounded-sm"
+              />
+            </a>
+          </div>
+          <div className="flex items-center justify-center">
             <Link
-              key={language}
-              to={`/${language}/stop/${stopId}`}
-              className={`px-2 py-1 rounded-md ${language === lang ? "bg-gray-200" : "bg-foreground text-background"}`}
+              to={`/${lang}`}
+              className="mr-3 bg-white/90 p-2 rounded-full hover:bg-white transition-colors"
             >
-              {language.toUpperCase()}
+              <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-arrow-left" aria-labelledby="backArrowTitle">
+                <title id="backArrowTitle">Back</title>
+                <line x1="19" y1="12" x2="5" y2="12" />
+                <polyline points="12 19 5 12 12 5" />
+              </svg>
             </Link>
-          ))}
+          </div>
         </div>
       </div>
-      <Link
-        to={`/${lang}`}
-        className="px-5 py-2 bg-[#69CAD8] text-white text-semibold rounded-md border-1 hover:opacity-90 transition-opacity my-1"
-      >
-        {ui.backButton}
-      </Link>
       <div className="w-full max-w-3xl flex flex-col items-center my-2">
         {/* Using key prop to force remounting when language changes */}
         <audio key={audioKey} controls className="w-full">
