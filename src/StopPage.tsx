@@ -72,7 +72,7 @@ function StopPage() {
           </div>
         </div>
         
-        {/* Row 2: Club Pilates image (75%) and back button (25%) */}
+        {/* Row 2: Club Pilates image (5/6) and back button (1/6) */}
         <div className="grid grid-cols-6 gap-2 mb-2">
           <div className="col-span-5">
             <a href="https://www.clubpilates.com/location/westboro" target="_blank" rel="noopener noreferrer">
